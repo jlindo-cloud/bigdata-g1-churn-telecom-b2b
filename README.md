@@ -22,7 +22,9 @@ Predecir el abandono de clientes empresariales con 90 días de anticipación uti
 - PySpark
 - Scikit-Learn
 - XGBoost
-- Power BI
+- Dashboard en Vercel
+- Railway
+- Mongodb
 
 ## Plan de Trabajo
 
